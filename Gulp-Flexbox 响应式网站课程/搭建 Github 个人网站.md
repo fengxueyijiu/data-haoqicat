@@ -1,7 +1,3 @@
-
-
-
-
 ### 搭建 Github 用户网站
 
 参考 [http://pages.github.com](http://pages.github.com)。可以创建“用户网站”，也可以创建“项目网站”，本视频介绍用户网站的搭建方式。
