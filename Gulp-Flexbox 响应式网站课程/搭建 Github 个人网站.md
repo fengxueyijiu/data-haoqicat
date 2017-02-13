@@ -1,15 +1,21 @@
-### 搭建 Github 用户网站
+<div>
+  
 
-参考 [http://pages.github.com](http://pages.github.com)。可以创建“用户网站”，也可以创建“项目网站”，本视频介绍用户网站的搭建方式。
+  <div>
+    ### 搭建 Github 用户网站
 
-#### 托管方式
+    参考 [http://pages.github.com](http://pages.github.com)。可以创建“用户网站”，也可以创建“项目网站”，本视频介绍用户网站的搭建方式。
 
-直接把 html/css/js 存放到 happypeter.github.io 这个仓库的 master 分支之上。 这样就可以在 [http://happypeter.github.io](http://happypeter.github.io)访问到托管的内容了。
+    #### 托管方式
 
-#### 参考资料
+    直接把 html/css/js 存放到 happypeter.github.io 这个仓库的 master 分支之上。 这样就可以在 [http://happypeter.github.io](http://happypeter.github.io)访问到托管的内容了。
 
-搬进 Github
+    #### 参考资料
 
-#### 结语
+    搬进 Github
 
-Peter 本人的情况是 happypeter.github.io 这个仓库已经被自己的个人网站占用了。所以，下一集中来演示一个替代方案：搭建项目网站。
+    #### 结语
+
+    Peter 本人的情况是 happypeter.github.io 这个仓库已经被自己的个人网站占用了。所以，下一集中来演示一个替代方案：搭建项目网站。
+  </div>
+</div>
